@@ -1,0 +1,13 @@
+
+.delete-image{
+    height: 25px;
+    width: 25px;
+    background-color: rgb(221, 247, 247);
+}
+.delete-image:hover{
+    height: 35px;
+    width: 35px;
+    background-color: rgb(234, 157, 56);
+    transition: all 0.2s ;
+    border-radius: 20px;
+}
